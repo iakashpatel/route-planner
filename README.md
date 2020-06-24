@@ -1,3 +1,4 @@
 # route-planner
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/route-planner)
+1. npm i
+2. npm start
